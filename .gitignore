@@ -1,0 +1,20 @@
+# Sensitive Encryption Keys & Vault Storage
+*.key
+*.dpapi
+vault.enc
+device_hardware.key
+device_master.key.dpapi
+
+# IDE & Editor Settings
+.vscode/
+.idea/
+
+# Python Environment & Cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+env/
+ENV/
